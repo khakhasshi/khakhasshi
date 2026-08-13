@@ -2,6 +2,7 @@
 
 Founder of **Zero2Quant**  
 AI × Quantitative Systems × Financial Engineering  
+Primary maintainer of OptionWorkstation | Rust, React, options analytics and auditable quantitative research
 
 ---
 
